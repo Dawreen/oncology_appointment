@@ -1,0 +1,738 @@
+
+
+Risultati
+
+Pazienti totali: 672 
+Pazienti visitati: 662 
+Pazienti non visitati 10: 359 (GU) 360 (GU) 367 (GU) 471 (MA) 510 (MA) 519 (MA) 538 (MA) 555 (MA) 577 (MA) 594 (MA) 
+Attesa media 0.00
+Attesa max 0
+Pazienti che preferiscono poltrone: 537
+Pazienti assegnati a poltrone: 372
+Ultimo istante inizio infusione: 37 
+
+Paziente 1 (PO) visitato il giorno 5 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 44 
+Paziente 2 (PO) visitato il giorno 1 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 3 (PO) visitato il giorno 5 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 33 
+Paziente 4 (PO) visitato il giorno 3 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 37 fine infusione: 55 
+Paziente 5 (PO) visitato il giorno 3 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 29 fine infusione: 47 
+Paziente 6 (PO) visitato il giorno 1 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 46 
+Paziente 7 (PO) visitato il giorno 1 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 21 
+Paziente 8 (PO) visitato il giorno 1 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 33 
+Paziente 9 (PO) visitato il giorno 1 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 14 fine infusione: 32 
+Paziente 10 (PO) visitato il giorno 1 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 50 
+Paziente 11 (PO) visitato il giorno 3 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 2 fine infusione: 20 
+Paziente 12 (PO) visitato il giorno 5 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 39 
+Paziente 13 (PO) visitato il giorno 1 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 23 
+Paziente 14 (PO) visitato il giorno 5 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 35 
+Paziente 15 (PO) visitato il giorno 5 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 25 
+Paziente 16 (PO) visitato il giorno 1 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 19 fine infusione: 37 
+Paziente 17 (PO) visitato il giorno 1 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 47 
+Paziente 18 (PO) visitato il giorno 5 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 30 fine infusione: 48 
+Paziente 19 (PO) visitato il giorno 5 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 43 
+Paziente 20 (PO) visitato il giorno 1 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 53 
+Paziente 21 (PO) visitato il giorno 3 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 40 
+Paziente 22 (PO) visitato il giorno 1 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 35 
+Paziente 23 (PO) visitato il giorno 3 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 48 
+Paziente 24 (PO) visitato il giorno 5 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 54 
+Paziente 25 (PO) visitato il giorno 5 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 13 fine infusione: 31 
+Paziente 26 (PO) visitato il giorno 5 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 22 
+Paziente 27 (PO) visitato il giorno 3 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 35 
+Paziente 28 (PO) visitato il giorno 5 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 38 
+Paziente 29 (PO) visitato il giorno 1 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 25 fine infusione: 43 
+Paziente 30 (PO) visitato il giorno 3 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 22 
+Paziente 31 (PO) visitato il giorno 3 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 32 (PO) visitato il giorno 3 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 26 
+Paziente 33 (PO) visitato il giorno 3 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 41 
+Paziente 34 (PO) visitato il giorno 5 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 53 
+Paziente 35 (PO) visitato il giorno 5 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 9 fine infusione: 27 
+Paziente 36 (PO) visitato il giorno 3 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 46 
+Paziente 37 (PO) visitato il giorno 3 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 33 fine infusione: 51 
+Paziente 38 (PO) visitato il giorno 3 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 28 
+Paziente 39 (PO) visitato il giorno 1 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 40 
+Paziente 40 (PO) visitato il giorno 5 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 28 
+Paziente 41 (PO) visitato il giorno 1 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 6 fine infusione: 24 
+Paziente 42 (PO) visitato il giorno 3 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 15 fine infusione: 33 
+Paziente 43 (PO) visitato il giorno 1 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 26 
+Paziente 44 (PO) visitato il giorno 1 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 31 
+Paziente 45 (PO) visitato il giorno 5 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 23 
+Paziente 46 (PO) visitato il giorno 1 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 27 
+Paziente 47 (PO) visitato il giorno 3 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 6 fine infusione: 24 
+Paziente 48 (PO) visitato il giorno 3 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 5 fine infusione: 23 
+Paziente 49 (PO) visitato il giorno 5 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 32 
+Paziente 50 (PO) visitato il giorno 1 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 22 
+Paziente 51 (PO) visitato il giorno 1 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 30 
+Paziente 52 (PO) visitato il giorno 1 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 44 
+Paziente 53 (PO) visitato il giorno 5 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 29 fine infusione: 47 
+Paziente 54 (PO) visitato il giorno 1 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 20 
+Paziente 55 (PO) visitato il giorno 5 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 52 
+Paziente 56 (PO) visitato il giorno 1 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 18 fine infusione: 36 
+Paziente 57 (PO) visitato il giorno 5 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 50 
+Paziente 58 (PO) visitato il giorno 3 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 35 fine infusione: 53 
+Paziente 59 (PO) visitato il giorno 1 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 39 
+Paziente 60 (PO) visitato il giorno 5 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 6 fine infusione: 24 
+Paziente 61 (PO) visitato il giorno 3 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 52 
+Paziente 62 (PO) visitato il giorno 5 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 20 
+Paziente 63 (PO) visitato il giorno 3 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 20 fine infusione: 38 
+Paziente 64 (PO) visitato il giorno 1 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 42 
+Paziente 65 (PO) visitato il giorno 3 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 21 
+Paziente 66 (PO) visitato il giorno 3 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 25 fine infusione: 43 
+Paziente 67 (PO) visitato il giorno 5 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 37 
+Paziente 68 (PO) visitato il giorno 5 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 21 
+Paziente 69 (PO) visitato il giorno 5 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 70 (PO) visitato il giorno 3 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 34 
+Paziente 71 (PO) visitato il giorno 3 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 31 fine infusione: 49 
+Paziente 72 (PO) visitato il giorno 1 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 48 
+Paziente 73 (PO) visitato il giorno 5 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 55 
+Paziente 74 (PO) visitato il giorno 1 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 55 
+Paziente 75 (PO) visitato il giorno 1 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 52 
+Paziente 76 (PO) visitato il giorno 3 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 37 
+Paziente 77 (PO) visitato il giorno 5 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 34 
+Paziente 78 (PO) visitato il giorno 3 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 18 fine infusione: 36 
+Paziente 79 (PO) visitato il giorno 1 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 28 
+Paziente 80 (PO) visitato il giorno 3 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 54 
+Paziente 81 (PO) visitato il giorno 1 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 49 
+Paziente 82 (PO) visitato il giorno 3 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 32 
+Paziente 83 (PO) visitato il giorno 3 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 7 fine infusione: 25 
+Paziente 84 (PO) visitato il giorno 3 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 32 fine infusione: 50 
+Paziente 85 (PO) visitato il giorno 1 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 36 fine infusione: 54 
+Paziente 86 (PO) visitato il giorno 5 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 33 fine infusione: 51 
+Paziente 87 (GI) visitato il giorno 4 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 16 fine infusione: 34 
+Paziente 88 (GI) visitato il giorno 5 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 30 fine infusione: 48 
+Paziente 89 (GI) visitato il giorno 4 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 25 fine infusione: 43 
+Paziente 90 (GI) visitato il giorno 5 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 35 
+Paziente 91 (GI) visitato il giorno 5 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 51 
+Paziente 92 (GI) visitato il giorno 5 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 27 
+Paziente 93 (GI) visitato il giorno 5 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 94 (GI) visitato il giorno 4 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 31 
+Paziente 95 (GI) visitato il giorno 4 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 41 
+Paziente 96 (GI) visitato il giorno 4 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 47 
+Paziente 97 (GI) visitato il giorno 5 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 23 
+Paziente 98 (GI) visitato il giorno 4 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 40 
+Paziente 99 (GI) visitato il giorno 5 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 29 fine infusione: 47 
+Paziente 100 (GI) visitato il giorno 5 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 50 
+Paziente 101 (GI) visitato il giorno 4 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 2 fine infusione: 20 
+Paziente 102 (GI) visitato il giorno 5 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 54 
+Paziente 103 (GI) visitato il giorno 4 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 30 fine infusione: 48 
+Paziente 104 (GI) visitato il giorno 5 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 18 fine infusione: 36 
+Paziente 105 (GI) visitato il giorno 5 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 26 
+Paziente 106 (GI) visitato il giorno 5 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 7 fine infusione: 25 
+Paziente 107 (GI) visitato il giorno 5 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 20 
+Paziente 108 (GI) visitato il giorno 5 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 38 
+Paziente 109 (GI) visitato il giorno 4 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 27 
+Paziente 110 (GI) visitato il giorno 5 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 31 fine infusione: 49 
+Paziente 111 (GI) visitato il giorno 5 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 44 
+Paziente 112 (GI) visitato il giorno 4 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 39 
+Paziente 113 (GI) visitato il giorno 5 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 25 fine infusione: 43 
+Paziente 114 (GI) visitato il giorno 4 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 5 fine infusione: 23 
+Paziente 115 (GI) visitato il giorno 4 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 44 
+Paziente 116 (GI) visitato il giorno 4 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 36 
+Paziente 117 (GI) visitato il giorno 4 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 50 
+Paziente 118 (GI) visitato il giorno 5 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 16 fine infusione: 34 
+Paziente 119 (GI) visitato il giorno 4 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 26 
+Paziente 120 (GI) visitato il giorno 5 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 40 
+Paziente 121 (GI) visitato il giorno 4 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 49 
+Paziente 122 (GI) visitato il giorno 5 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 46 
+Paziente 123 (GI) visitato il giorno 5 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 24 fine infusione: 42 
+Paziente 124 (GI) visitato il giorno 5 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 13 fine infusione: 31 
+Paziente 125 (GI) visitato il giorno 4 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 15 fine infusione: 33 
+Paziente 126 (GI) visitato il giorno 5 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 37 
+Paziente 127 (GI) visitato il giorno 5 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 30 
+Paziente 128 (GI) visitato il giorno 5 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 4 fine infusione: 22 
+Paziente 129 (GI) visitato il giorno 5 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 39 
+Paziente 130 (GI) visitato il giorno 4 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 28 
+Paziente 131 (GI) visitato il giorno 4 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 38 
+Paziente 132 (GI) visitato il giorno 5 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 52 
+Paziente 133 (GI) visitato il giorno 5 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 35 fine infusione: 53 
+Paziente 134 (GI) visitato il giorno 4 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 52 
+Paziente 135 (GI) visitato il giorno 5 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 41 
+Paziente 136 (GI) visitato il giorno 5 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 21 
+Paziente 137 (GI) visitato il giorno 4 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 12 fine infusione: 30 
+Paziente 138 (GI) visitato il giorno 4 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 11 fine infusione: 29 
+Paziente 139 (GI) visitato il giorno 4 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 19 fine infusione: 37 
+Paziente 140 (GI) visitato il giorno 4 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 53 
+Paziente 141 (GI) visitato il giorno 4 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 46 
+Paziente 142 (GI) visitato il giorno 5 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 11 fine infusione: 29 
+Paziente 143 (GI) visitato il giorno 5 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 32 
+Paziente 144 (GI) visitato il giorno 4 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 145 (GI) visitato il giorno 4 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 55 
+Paziente 146 (GI) visitato il giorno 4 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 6 fine infusione: 24 
+Paziente 147 (GI) visitato il giorno 4 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 3 fine infusione: 21 
+Paziente 148 (GI) visitato il giorno 4 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 35 
+Paziente 149 (GI) visitato il giorno 4 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 54 
+Paziente 150 (GI) visitato il giorno 4 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 33 fine infusione: 51 
+Paziente 151 (GI) visitato il giorno 4 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 32 
+Paziente 152 (GI) visitato il giorno 4 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 25 
+Paziente 153 (GI) visitato il giorno 5 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 33 
+Paziente 154 (GI) visitato il giorno 4 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 24 fine infusione: 42 
+Paziente 155 (GI) visitato il giorno 5 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 24 
+Paziente 156 (GI) visitato il giorno 5 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 28 
+Paziente 157 (GI) visitato il giorno 5 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 55 
+Paziente 158 (GI) visitato il giorno 4 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 22 
+Paziente 159 (OT) visitato il giorno 2 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 3 fine infusione: 21 
+Paziente 160 (OT) visitato il giorno 4 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 43 
+Paziente 161 (OT) visitato il giorno 4 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 7 fine infusione: 25 
+Paziente 162 (OT) visitato il giorno 2 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 53 
+Paziente 163 (OT) visitato il giorno 5 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 45 
+Paziente 164 (OT) visitato il giorno 5 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 12 fine infusione: 30 
+Paziente 165 (OT) visitato il giorno 5 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 29 fine infusione: 47 
+Paziente 166 (OT) visitato il giorno 5 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 30 fine infusione: 48 
+Paziente 167 (OT) visitato il giorno 2 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 51 
+Paziente 168 (OT) visitato il giorno 5 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 35 
+Paziente 169 (OT) visitato il giorno 4 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 45 
+Paziente 170 (OT) visitato il giorno 5 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 53 
+Paziente 171 (OT) visitato il giorno 4 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 20 
+Paziente 172 (OT) visitato il giorno 4 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 50 
+Paziente 173 (OT) visitato il giorno 2 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 52 
+Paziente 174 (OT) visitato il giorno 4 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 16 fine infusione: 34 
+Paziente 175 (OT) visitato il giorno 4 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 52 
+Paziente 176 (EM) visitato il giorno 4 inizio visita: 13 fine visita: 15 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 15 fine infusione: 27 
+Paziente 177 (EM) visitato il giorno 3 inizio visita: 27 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 178 (EM) visitato il giorno 2 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 179 (EM) visitato il giorno 5 inizio visita: 21 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 180 (EM) visitato il giorno 4 inizio visita: 11 fine visita: 13 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 13 fine infusione: 25 
+Paziente 181 (EM) visitato il giorno 2 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 48 
+Paziente 182 (EM) visitato il giorno 3 inizio visita: 8 fine visita: 10 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 183 (EM) visitato il giorno 5 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 184 (EM) visitato il giorno 3 inizio visita: 33 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 185 (EM) visitato il giorno 3 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 186 (EM) visitato il giorno 2 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 187 (EM) visitato il giorno 2 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 188 (EM) visitato il giorno 5 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 189 (EM) visitato il giorno 3 inizio visita: 13 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 190 (EM) visitato il giorno 3 inizio visita: 22 fine visita: 24 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 191 (EM) visitato il giorno 3 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 192 (EM) visitato il giorno 2 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 193 (EM) visitato il giorno 4 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 194 (EM) visitato il giorno 1 inizio visita: 28 fine visita: 30 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 30 fine infusione: 42 
+Paziente 195 (EM) visitato il giorno 4 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 196 (EM) visitato il giorno 1 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 197 (EM) visitato il giorno 5 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 18 fine infusione: 30 
+Paziente 198 (EM) visitato il giorno 2 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 199 (EM) visitato il giorno 2 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 200 (EM) visitato il giorno 5 inizio visita: 2 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 201 (EM) visitato il giorno 1 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 38 
+Paziente 202 (EM) visitato il giorno 5 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 203 (EM) visitato il giorno 5 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 204 (EM) visitato il giorno 2 inizio visita: 21 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 205 (EM) visitato il giorno 3 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 206 (EM) visitato il giorno 2 inizio visita: 19 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 33 
+Paziente 207 (EM) visitato il giorno 5 inizio visita: 30 fine visita: 32 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 208 (EM) visitato il giorno 2 inizio visita: 25 fine visita: 27 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 27 fine infusione: 39 
+Paziente 209 (EM) visitato il giorno 5 inizio visita: 19 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 33 
+Paziente 210 (EM) visitato il giorno 4 inizio visita: 9 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 11 fine infusione: 23 
+Paziente 211 (EM) visitato il giorno 4 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 212 (EM) visitato il giorno 3 inizio visita: 21 fine visita: 23 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 23 fine infusione: 35 
+Paziente 213 (EM) visitato il giorno 4 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 214 (EM) visitato il giorno 3 inizio visita: 2 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 215 (EM) visitato il giorno 3 inizio visita: 15 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 29 
+Paziente 216 (EM) visitato il giorno 3 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 217 (EM) visitato il giorno 2 inizio visita: 9 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 23 
+Paziente 218 (EM) visitato il giorno 2 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 219 (EM) visitato il giorno 2 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 220 (EM) visitato il giorno 1 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 221 (EM) visitato il giorno 5 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 222 (EM) visitato il giorno 2 inizio visita: 22 fine visita: 24 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 223 (EM) visitato il giorno 5 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 224 (EM) visitato il giorno 4 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 18 fine infusione: 30 
+Paziente 225 (EM) visitato il giorno 3 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 226 (EM) visitato il giorno 3 inizio visita: 8 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 22 
+Paziente 227 (EM) visitato il giorno 3 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 228 (EM) visitato il giorno 5 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 229 (EM) visitato il giorno 3 inizio visita: 23 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 25 fine infusione: 37 
+Paziente 230 (EM) visitato il giorno 3 inizio visita: 30 fine visita: 32 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 231 (EM) visitato il giorno 3 inizio visita: 10 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 24 
+Paziente 232 (EM) visitato il giorno 2 inizio visita: 30 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 44 
+Paziente 233 (EM) visitato il giorno 2 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 234 (EM) visitato il giorno 5 inizio visita: 28 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 30 fine infusione: 42 
+Paziente 235 (EM) visitato il giorno 2 inizio visita: 8 fine visita: 10 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 236 (EM) visitato il giorno 2 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 237 (EM) visitato il giorno 3 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 238 (EM) visitato il giorno 1 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 239 (EM) visitato il giorno 5 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 240 (EM) visitato il giorno 1 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 18 fine infusione: 30 
+Paziente 241 (EM) visitato il giorno 5 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 242 (EM) visitato il giorno 5 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 243 (EM) visitato il giorno 4 inizio visita: 27 fine visita: 29 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 29 fine infusione: 41 
+Paziente 244 (EM) visitato il giorno 2 inizio visita: 15 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 245 (EM) visitato il giorno 3 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 246 (EM) visitato il giorno 5 inizio visita: 6 fine visita: 8 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 8 fine infusione: 20 
+Paziente 247 (EM) visitato il giorno 1 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 26 
+Paziente 248 (EM) visitato il giorno 1 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 249 (EM) visitato il giorno 4 inizio visita: 29 fine visita: 31 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 31 fine infusione: 43 
+Paziente 250 (EM) visitato il giorno 1 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 251 (EM) visitato il giorno 3 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 252 (EM) visitato il giorno 2 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 253 (EM) visitato il giorno 1 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 254 (EM) visitato il giorno 1 inizio visita: 30 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 255 (EM) visitato il giorno 1 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 256 (EM) visitato il giorno 1 inizio visita: 15 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 257 (EM) visitato il giorno 1 inizio visita: 32 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 46 
+Paziente 258 (EM) visitato il giorno 3 inizio visita: 28 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 259 (EM) visitato il giorno 2 inizio visita: 13 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 260 (EM) visitato il giorno 5 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 261 (EM) visitato il giorno 4 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 262 (EM) visitato il giorno 2 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 263 (EM) visitato il giorno 1 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 26 
+Paziente 264 (EM) visitato il giorno 2 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 265 (EM) visitato il giorno 1 inizio visita: 23 fine visita: 25 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 25 fine infusione: 37 
+Paziente 266 (EM) visitato il giorno 5 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 267 (EM) visitato il giorno 5 inizio visita: 33 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 268 (EM) visitato il giorno 2 inizio visita: 28 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 269 (EM) visitato il giorno 1 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 270 (EM) visitato il giorno 4 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 271 (EM) visitato il giorno 4 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 272 (EM) visitato il giorno 5 inizio visita: 22 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 36 
+Paziente 273 (EM) visitato il giorno 5 inizio visita: 11 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 13 fine infusione: 25 
+Paziente 274 (EM) visitato il giorno 2 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 275 (EM) visitato il giorno 1 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 40 
+Paziente 276 (EM) visitato il giorno 4 inizio visita: 13 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 277 (EM) visitato il giorno 1 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 278 (EM) visitato il giorno 5 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 279 (EM) visitato il giorno 3 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 280 (EM) visitato il giorno 3 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 7 fine infusione: 19 
+Paziente 281 (EM) visitato il giorno 3 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 38 
+Paziente 282 (EM) visitato il giorno 1 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 283 (EM) visitato il giorno 2 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 284 (EM) visitato il giorno 3 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 285 (EM) visitato il giorno 3 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 286 (EM) visitato il giorno 5 inizio visita: 28 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 287 (EM) visitato il giorno 2 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 288 (EM) visitato il giorno 2 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 33 fine infusione: 45 
+Paziente 289 (EM) visitato il giorno 3 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 3 fine infusione: 15 
+Paziente 290 (EM) visitato il giorno 3 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 291 (EM) visitato il giorno 1 inizio visita: 8 fine visita: 10 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 292 (EM) visitato il giorno 2 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 33 fine infusione: 45 
+Paziente 293 (EM) visitato il giorno 4 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 294 (EM) visitato il giorno 5 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 38 
+Paziente 295 (EM) visitato il giorno 4 inizio visita: 32 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 46 
+Paziente 296 (EM) visitato il giorno 4 inizio visita: 29 fine visita: 31 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 31 fine infusione: 43 
+Paziente 297 (EM) visitato il giorno 5 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 298 (EM) visitato il giorno 1 inizio visita: 30 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 44 
+Paziente 299 (EM) visitato il giorno 4 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 300 (EM) visitato il giorno 3 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 301 (EM) visitato il giorno 4 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 302 (EM) visitato il giorno 2 inizio visita: 10 fine visita: 12 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 12 fine infusione: 24 
+Paziente 303 (EM) visitato il giorno 3 inizio visita: 10 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 12 fine infusione: 24 
+Paziente 304 (EM) visitato il giorno 2 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 305 (EM) visitato il giorno 3 inizio visita: 16 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 306 (EM) visitato il giorno 5 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 6 fine infusione: 18 
+Paziente 307 (EM) visitato il giorno 4 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 308 (EM) visitato il giorno 1 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 309 (EM) visitato il giorno 4 inizio visita: 33 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 310 (EM) visitato il giorno 4 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 311 (EM) visitato il giorno 4 inizio visita: 15 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 312 (EM) visitato il giorno 5 inizio visita: 18 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 313 (EM) visitato il giorno 4 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 37 fine infusione: 49 
+Paziente 314 (EM) visitato il giorno 2 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 315 (EM) visitato il giorno 5 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 316 (EM) visitato il giorno 4 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 317 (EM) visitato il giorno 3 inizio visita: 35 fine visita: 37 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 37 fine infusione: 49 
+Paziente 318 (EM) visitato il giorno 3 inizio visita: 12 fine visita: 14 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 319 (EM) visitato il giorno 3 inizio visita: 33 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 35 fine infusione: 47 
+Paziente 320 (EM) visitato il giorno 3 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 321 (EM) visitato il giorno 2 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 322 (EM) visitato il giorno 4 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 323 (EM) visitato il giorno 1 inizio visita: 32 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 34 fine infusione: 46 
+Paziente 324 (EM) visitato il giorno 1 inizio visita: 10 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 24 
+Paziente 325 (EM) visitato il giorno 5 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 326 (EM) visitato il giorno 4 inizio visita: 5 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 7 fine infusione: 19 
+Paziente 327 (EM) visitato il giorno 1 inizio visita: 8 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 328 (EM) visitato il giorno 2 inizio visita: 33 fine visita: 35 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 35 fine infusione: 47 
+Paziente 329 (EM) visitato il giorno 4 inizio visita: 29 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 31 fine infusione: 43 
+Paziente 330 (EM) visitato il giorno 4 inizio visita: 22 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 36 
+Paziente 331 (EM) visitato il giorno 1 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 6 fine infusione: 18 
+Paziente 332 (EM) visitato il giorno 4 inizio visita: 24 fine visita: 26 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 333 (EM) visitato il giorno 4 inizio visita: 17 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 334 (EM) visitato il giorno 4 inizio visita: 14 fine visita: 16 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 335 (EM) visitato il giorno 2 inizio visita: 27 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 336 (EM) visitato il giorno 5 inizio visita: 4 fine visita: 6 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 6 fine infusione: 18 
+Paziente 337 (EM) visitato il giorno 4 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 338 (EM) visitato il giorno 4 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 48 
+Paziente 339 (EM) visitato il giorno 3 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 340 (EM) visitato il giorno 5 inizio visita: 26 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 341 (EM) visitato il giorno 4 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 342 (EM) visitato il giorno 5 inizio visita: 7 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 343 (EM) visitato il giorno 1 inizio visita: 1 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 344 (EM) visitato il giorno 1 inizio visita: 22 fine visita: 24 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 345 (EM) visitato il giorno 4 inizio visita: 20 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 346 (EM) visitato il giorno 5 inizio visita: 3 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 347 (EM) visitato il giorno 1 inizio visita: 13 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 348 (EM) visitato il giorno 4 inizio visita: 31 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 349 (EM) visitato il giorno 2 inizio visita: 34 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 350 (EM) visitato il giorno 3 inizio visita: 25 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 39 
+Paziente 351 (EM) visitato il giorno 4 inizio visita: 21 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 352 (GU) visitato il giorno 1 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 35 fine infusione: 47 
+Paziente 353 (GU) visitato il giorno 1 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 354 (GU) visitato il giorno 1 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 355 (GU) visitato il giorno 1 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 356 (GU) visitato il giorno 1 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 25 
+Paziente 357 (GU) visitato il giorno 1 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 39 
+Paziente 358 (GU) visitato il giorno 1 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 33 
+Paziente 359 (GU) non visitato
+Paziente 360 (GU) non visitato
+Paziente 361 (GU) visitato il giorno 1 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 34 fine infusione: 46 
+Paziente 362 (GU) visitato il giorno 1 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 363 (GU) visitato il giorno 1 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 11 fine infusione: 23 
+Paziente 364 (GU) visitato il giorno 1 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 365 (GU) visitato il giorno 1 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 12 fine infusione: 24 
+Paziente 366 (GU) visitato il giorno 1 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 367 (GU) non visitato
+Paziente 368 (GU) visitato il giorno 1 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 369 (GU) visitato il giorno 1 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 370 (GU) visitato il giorno 1 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 371 (GU) visitato il giorno 1 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 372 (GU) visitato il giorno 1 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 48 
+Paziente 373 (GU) visitato il giorno 1 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 29 fine infusione: 41 
+Paziente 374 (OT) visitato il giorno 4 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 41 
+Paziente 375 (OT) visitato il giorno 4 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 16 
+Paziente 376 (OT) visitato il giorno 4 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 12 
+Paziente 377 (OT) visitato il giorno 5 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 24 
+Paziente 378 (OT) visitato il giorno 4 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 19 
+Paziente 379 (OT) visitato il giorno 5 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 380 (OT) visitato il giorno 2 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 381 (OT) visitato il giorno 2 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 44 
+Paziente 382 (OT) visitato il giorno 5 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 44 
+Paziente 383 (OT) visitato il giorno 5 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 8 fine infusione: 20 
+Paziente 384 (OT) visitato il giorno 2 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 385 (OT) visitato il giorno 2 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 18 fine infusione: 30 
+Paziente 386 (OT) visitato il giorno 5 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 387 (OT) visitato il giorno 5 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 388 (GU) visitato il giorno 1 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 389 (GU) visitato il giorno 1 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 390 (GU) visitato il giorno 1 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 391 (GU) visitato il giorno 1 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 392 (GU) visitato il giorno 1 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 18 fine infusione: 30 
+Paziente 393 (GU) visitato il giorno 1 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 394 (GU) visitato il giorno 1 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 20 
+Paziente 395 (GU) visitato il giorno 1 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 396 (GU) visitato il giorno 1 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 37 
+Paziente 397 (GU) visitato il giorno 1 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 398 (GU) visitato il giorno 1 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 399 (GU) visitato il giorno 1 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 400 (GU) visitato il giorno 1 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 43 
+Paziente 401 (GU) visitato il giorno 1 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 402 (GU) visitato il giorno 1 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 403 (GU) visitato il giorno 1 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 404 (GU) visitato il giorno 1 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 405 (GY) visitato il giorno 2 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 26 
+Paziente 406 (GY) visitato il giorno 2 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 13 fine infusione: 37 
+Paziente 407 (GY) visitato il giorno 2 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 29 
+Paziente 408 (GY) visitato il giorno 2 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 39 
+Paziente 409 (GY) visitato il giorno 2 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 36 
+Paziente 410 (GY) visitato il giorno 2 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 40 
+Paziente 411 (GY) visitato il giorno 2 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 54 
+Paziente 412 (GY) visitato il giorno 2 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 30 
+Paziente 413 (GY) visitato il giorno 2 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 32 
+Paziente 414 (GY) visitato il giorno 2 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 49 
+Paziente 415 (GY) visitato il giorno 2 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 43 
+Paziente 416 (GY) visitato il giorno 2 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 50 
+Paziente 417 (GY) visitato il giorno 2 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 53 
+Paziente 418 (GY) visitato il giorno 2 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 9 fine infusione: 33 
+Paziente 419 (GY) visitato il giorno 2 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 45 
+Paziente 420 (GY) visitato il giorno 2 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 52 
+Paziente 421 (GY) visitato il giorno 2 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 47 
+Paziente 422 (GY) visitato il giorno 2 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 22 fine infusione: 46 
+Paziente 423 (GY) visitato il giorno 2 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 51 
+Paziente 424 (GY) visitato il giorno 2 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 48 
+Paziente 425 (GY) visitato il giorno 2 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 31 fine infusione: 55 
+Paziente 426 (GY) visitato il giorno 2 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 38 
+Paziente 427 (GY) visitato il giorno 2 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 35 
+Paziente 428 (GY) visitato il giorno 2 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 3 fine infusione: 27 
+Paziente 429 (GY) visitato il giorno 2 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 31 
+Paziente 430 (GY) visitato il giorno 2 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 4 fine infusione: 28 
+Paziente 431 (MA) visitato il giorno 3 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 432 (MA) visitato il giorno 1 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 433 (MA) visitato il giorno 3 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 434 (MA) visitato il giorno 1 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 435 (MA) visitato il giorno 3 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 43 
+Paziente 436 (MA) visitato il giorno 3 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 36 
+Paziente 437 (MA) visitato il giorno 1 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 438 (MA) visitato il giorno 4 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 4 fine infusione: 16 
+Paziente 439 (MA) visitato il giorno 1 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 440 (MA) visitato il giorno 1 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 40 
+Paziente 441 (MA) visitato il giorno 4 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 21 fine infusione: 33 
+Paziente 442 (MA) visitato il giorno 1 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 13 fine infusione: 25 
+Paziente 443 (MA) visitato il giorno 1 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 444 (MA) visitato il giorno 3 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 24 
+Paziente 445 (MA) visitato il giorno 4 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 36 
+Paziente 446 (MA) visitato il giorno 3 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 447 (MA) visitato il giorno 2 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 448 (MA) visitato il giorno 3 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 449 (MA) visitato il giorno 2 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 450 (MA) visitato il giorno 3 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 451 (MA) visitato il giorno 3 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 26 
+Paziente 452 (MA) visitato il giorno 3 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 453 (MA) visitato il giorno 1 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 454 (MA) visitato il giorno 1 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 455 (MA) visitato il giorno 3 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 48 
+Paziente 456 (MA) visitato il giorno 4 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 35 fine infusione: 47 
+Paziente 457 (MA) visitato il giorno 1 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 458 (MA) visitato il giorno 4 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 459 (MA) visitato il giorno 1 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 460 (MA) visitato il giorno 3 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 461 (MA) visitato il giorno 3 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 3 fine infusione: 15 
+Paziente 462 (MA) visitato il giorno 4 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 463 (MA) visitato il giorno 3 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 35 fine infusione: 47 
+Paziente 464 (MA) visitato il giorno 3 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 465 (MA) visitato il giorno 3 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 466 (MA) visitato il giorno 4 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 23 
+Paziente 467 (MA) visitato il giorno 2 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 12 fine infusione: 24 
+Paziente 468 (MA) visitato il giorno 3 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 16 fine infusione: 28 
+Paziente 469 (MA) visitato il giorno 3 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 470 (MA) visitato il giorno 3 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 471 (MA) non visitato
+Paziente 472 (MA) visitato il giorno 1 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 473 (MA) visitato il giorno 3 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 8 fine infusione: 20 
+Paziente 474 (MA) visitato il giorno 2 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 475 (MA) visitato il giorno 3 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 43 
+Paziente 476 (MA) visitato il giorno 3 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 477 (MA) visitato il giorno 1 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 21 fine infusione: 33 
+Paziente 478 (MA) visitato il giorno 3 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 479 (MA) visitato il giorno 4 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 480 (MA) visitato il giorno 3 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 30 fine infusione: 42 
+Paziente 481 (MA) visitato il giorno 3 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 482 (MA) visitato il giorno 4 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 483 (MA) visitato il giorno 1 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 484 (MA) visitato il giorno 2 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 23 
+Paziente 485 (MA) visitato il giorno 1 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 43 
+Paziente 486 (MA) visitato il giorno 1 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 487 (MA) visitato il giorno 4 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 8 fine infusione: 20 
+Paziente 488 (MA) visitato il giorno 2 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 489 (MA) visitato il giorno 3 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 490 (MA) visitato il giorno 4 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 491 (MA) visitato il giorno 3 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 492 (MA) visitato il giorno 3 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 493 (MA) visitato il giorno 1 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 494 (MA) visitato il giorno 3 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 11 fine infusione: 23 
+Paziente 495 (MA) visitato il giorno 3 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 37 
+Paziente 496 (MA) visitato il giorno 2 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 497 (MA) visitato il giorno 3 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 20 fine infusione: 32 
+Paziente 498 (MA) visitato il giorno 3 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 13 fine infusione: 25 
+Paziente 499 (MA) visitato il giorno 3 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 500 (MA) visitato il giorno 3 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 21 
+Paziente 501 (MA) visitato il giorno 3 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 502 (MA) visitato il giorno 3 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 29 
+Paziente 503 (MA) visitato il giorno 2 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 29 
+Paziente 504 (MA) visitato il giorno 3 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 34 
+Paziente 505 (MA) visitato il giorno 2 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 8 fine infusione: 20 
+Paziente 506 (MA) visitato il giorno 1 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 507 (MA) visitato il giorno 3 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 23 
+Paziente 508 (MA) visitato il giorno 3 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 509 (MA) visitato il giorno 1 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 510 (MA) non visitato
+Paziente 511 (MA) visitato il giorno 1 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 22 
+Paziente 512 (MA) visitato il giorno 4 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 513 (MA) visitato il giorno 1 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 8 fine infusione: 20 
+Paziente 514 (MA) visitato il giorno 3 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 515 (MA) visitato il giorno 4 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 24 
+Paziente 516 (MA) visitato il giorno 3 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 25 
+Paziente 517 (MA) visitato il giorno 1 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 518 (MA) visitato il giorno 2 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 33 
+Paziente 519 (MA) non visitato
+Paziente 520 (MA) visitato il giorno 4 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 31 fine infusione: 43 
+Paziente 521 (MA) visitato il giorno 1 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 522 (MA) visitato il giorno 4 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 13 fine infusione: 25 
+Paziente 523 (MA) visitato il giorno 4 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 524 (MA) visitato il giorno 3 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 15 fine infusione: 27 
+Paziente 525 (MA) visitato il giorno 4 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 46 
+Paziente 526 (MA) visitato il giorno 3 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 24 fine infusione: 36 
+Paziente 527 (MA) visitato il giorno 1 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 528 (MA) visitato il giorno 3 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 26 fine infusione: 38 
+Paziente 529 (MA) visitato il giorno 4 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 17 fine infusione: 29 
+Paziente 530 (MA) visitato il giorno 2 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 531 (MA) visitato il giorno 4 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 40 
+Paziente 532 (MA) visitato il giorno 3 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 10 fine infusione: 22 
+Paziente 533 (MA) visitato il giorno 2 inizio visita: 34 fine visita: 35 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 35 fine infusione: 47 
+Paziente 534 (MA) visitato il giorno 3 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 15 fine infusione: 27 
+Paziente 535 (MA) visitato il giorno 2 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 29 fine infusione: 41 
+Paziente 536 (MA) visitato il giorno 4 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 3 fine infusione: 15 
+Paziente 537 (MA) visitato il giorno 4 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 538 (MA) non visitato
+Paziente 539 (MA) visitato il giorno 4 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 540 (MA) visitato il giorno 3 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 46 
+Paziente 541 (MA) visitato il giorno 3 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 23 fine infusione: 35 
+Paziente 542 (MA) visitato il giorno 3 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 39 
+Paziente 543 (MA) visitato il giorno 3 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 32 fine infusione: 44 
+Paziente 544 (MA) visitato il giorno 4 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 545 (MA) visitato il giorno 3 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 15 
+Paziente 546 (MA) visitato il giorno 4 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 37 fine infusione: 49 
+Paziente 547 (MA) visitato il giorno 1 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 38 
+Paziente 548 (MA) visitato il giorno 2 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 46 
+Paziente 549 (MA) visitato il giorno 1 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 23 
+Paziente 550 (MA) visitato il giorno 4 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 551 (MA) visitato il giorno 3 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 33 
+Paziente 552 (MA) visitato il giorno 2 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 553 (MA) visitato il giorno 3 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 34 fine infusione: 46 
+Paziente 554 (MA) visitato il giorno 3 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 555 (MA) non visitato
+Paziente 556 (MA) visitato il giorno 1 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 37 
+Paziente 557 (MA) visitato il giorno 4 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 39 
+Paziente 558 (MA) visitato il giorno 2 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 27 
+Paziente 559 (MA) visitato il giorno 4 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 560 (MA) visitato il giorno 3 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 561 (MA) visitato il giorno 3 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 562 (MA) visitato il giorno 3 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 40 
+Paziente 563 (MA) visitato il giorno 3 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 564 (MA) visitato il giorno 4 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 26 
+Paziente 565 (MA) visitato il giorno 4 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 32 
+Paziente 566 (MA) visitato il giorno 1 inizio visita: 33 fine visita: 34 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 34 fine infusione: 46 
+Paziente 567 (MA) visitato il giorno 2 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 48 
+Paziente 568 (MA) visitato il giorno 2 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 569 (MA) visitato il giorno 2 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 570 (MA) visitato il giorno 2 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 37 
+Paziente 571 (MA) visitato il giorno 2 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 22 
+Paziente 572 (MA) visitato il giorno 3 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 573 (MA) visitato il giorno 1 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 574 (MA) visitato il giorno 3 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 25 fine infusione: 37 
+Paziente 575 (MA) visitato il giorno 2 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 28 fine infusione: 40 
+Paziente 576 (MA) visitato il giorno 3 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 5 fine infusione: 17 
+Paziente 577 (MA) non visitato
+Paziente 578 (MA) visitato il giorno 4 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 579 (MA) visitato il giorno 1 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 31 
+Paziente 580 (MA) visitato il giorno 3 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 8 fine infusione: 20 
+Paziente 581 (MA) visitato il giorno 2 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 582 (MA) visitato il giorno 3 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 583 (MA) visitato il giorno 2 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 31 fine infusione: 43 
+Paziente 584 (MA) visitato il giorno 4 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 22 
+Paziente 585 (MA) visitato il giorno 3 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 33 
+Paziente 586 (MA) visitato il giorno 1 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 33 fine infusione: 45 
+Paziente 587 (MA) visitato il giorno 1 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 588 (MA) visitato il giorno 3 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 23 fine infusione: 35 
+Paziente 589 (MA) visitato il giorno 4 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 22 fine infusione: 34 
+Paziente 590 (MA) visitato il giorno 2 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 28 
+Paziente 591 (MA) visitato il giorno 2 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 592 (MA) visitato il giorno 2 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 42 
+Paziente 593 (MA) visitato il giorno 4 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 17 
+Paziente 594 (MA) non visitato
+Paziente 595 (MA) visitato il giorno 4 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 45 
+Paziente 596 (MA) visitato il giorno 3 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 19 fine infusione: 31 
+Paziente 597 (MA) visitato il giorno 3 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 598 (MA) visitato il giorno 4 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 18 
+Paziente 599 (MA) visitato il giorno 2 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 39 
+Paziente 600 (MA) visitato il giorno 1 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 27 fine infusione: 39 
+Paziente 601 (MA) visitato il giorno 2 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 602 (MA) visitato il giorno 3 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 27 fine infusione: 39 
+Paziente 603 (MA) visitato il giorno 2 inizio visita: 23 fine visita: 24 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 24 fine infusione: 36 
+Paziente 604 (MA) visitato il giorno 2 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 25 
+Paziente 605 (MA) visitato il giorno 3 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 18 fine infusione: 30 
+Paziente 606 (MA) visitato il giorno 1 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 36 fine infusione: 48 
+Paziente 607 (MA) visitato il giorno 3 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 24 
+Paziente 608 (MA) visitato il giorno 1 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 12 fine infusione: 24 
+Paziente 609 (MA) visitato il giorno 2 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 19 
+Paziente 610 (MA) visitato il giorno 2 inizio visita: 31 fine visita: 32 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 32 fine infusione: 44 
+Paziente 611 (MA) visitato il giorno 2 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 37 fine infusione: 49 
+Paziente 612 (MA) visitato il giorno 2 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 14 fine infusione: 26 
+Paziente 613 (MA) visitato il giorno 1 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 30 fine infusione: 42 
+Paziente 614 (MA) visitato il giorno 3 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 30 fine infusione: 42 
+Paziente 615 (MA) visitato il giorno 2 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 616 (MA) visitato il giorno 4 inizio visita: 24 fine visita: 25 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 25 fine infusione: 37 
+Paziente 617 (MA) visitato il giorno 3 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 41 
+Paziente 618 (OT) visitato il giorno 2 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 11 
+Paziente 619 (OT) visitato il giorno 4 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 37 fine infusione: 43 
+Paziente 620 (OT) visitato il giorno 4 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 5 fine infusione: 11 
+Paziente 621 (OT) visitato il giorno 4 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 21 fine infusione: 27 
+Paziente 622 (OT) visitato il giorno 5 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 15 
+Paziente 623 (OT) visitato il giorno 4 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 17 
+Paziente 624 (OT) visitato il giorno 4 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 29 fine infusione: 35 
+Paziente 625 (OT) visitato il giorno 5 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 16 
+Paziente 626 (OT) visitato il giorno 4 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 14 fine infusione: 20 
+Paziente 627 (OT) visitato il giorno 4 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 10 
+Paziente 628 (OT) visitato il giorno 4 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 8 fine infusione: 14 
+Paziente 629 (OT) visitato il giorno 2 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 20 
+Paziente 630 (OT) visitato il giorno 4 inizio visita: 14 fine visita: 15 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 15 fine infusione: 21 
+Paziente 631 (OT) visitato il giorno 2 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 34 
+Paziente 632 (OT) visitato il giorno 4 inizio visita: 17 fine visita: 18 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 18 fine infusione: 24 
+Paziente 633 (OT) visitato il giorno 5 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 33 fine infusione: 39 
+Paziente 634 (OT) visitato il giorno 2 inizio visita: 18 fine visita: 19 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 19 fine infusione: 25 
+Paziente 635 (OT) visitato il giorno 4 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 23 fine infusione: 29 
+Paziente 636 (OT) visitato il giorno 2 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 18 
+Paziente 637 (OT) visitato il giorno 5 inizio visita: 15 fine visita: 16 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 16 fine infusione: 22 
+Paziente 638 (OT) visitato il giorno 5 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 31 fine infusione: 37 
+Paziente 639 (OT) visitato il giorno 2 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 36 fine infusione: 42 
+Paziente 640 (OT) visitato il giorno 5 inizio visita: 2 fine visita: 3 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 3 fine infusione: 9 
+Paziente 641 (OT) visitato il giorno 5 inizio visita: 13 fine visita: 14 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 14 fine infusione: 20 
+Paziente 642 (OT) visitato il giorno 2 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 13 
+Paziente 643 (OT) visitato il giorno 2 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 9 fine infusione: 15 
+Paziente 644 (OT) visitato il giorno 5 inizio visita: 12 fine visita: 13 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 13 fine infusione: 19 
+Paziente 645 (OT) visitato il giorno 2 inizio visita: 9 fine visita: 10 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 10 fine infusione: 16 
+Paziente 646 (OT) visitato il giorno 5 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 26 
+Paziente 647 (OT) visitato il giorno 2 inizio visita: 21 fine visita: 22 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 22 fine infusione: 28 
+Paziente 648 (OT) visitato il giorno 4 inizio visita: 11 fine visita: 12 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 12 fine infusione: 18 
+Paziente 649 (OT) visitato il giorno 4 inizio visita: 19 fine visita: 20 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 20 fine infusione: 26 
+Paziente 650 (OT) visitato il giorno 5 inizio visita: 10 fine visita: 11 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 11 fine infusione: 17 
+Paziente 651 (OT) visitato il giorno 4 inizio visita: 35 fine visita: 36 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 36 fine infusione: 42 
+Paziente 652 (OT) visitato il giorno 4 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 32 
+Paziente 653 (OT) visitato il giorno 5 inizio visita: 6 fine visita: 7 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 7 fine infusione: 13 
+Paziente 654 (OT) visitato il giorno 5 inizio visita: 5 fine visita: 6 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 6 fine infusione: 12 
+Paziente 655 (OT) visitato il giorno 2 inizio visita: 7 fine visita: 8 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 8 fine infusione: 14 
+Paziente 656 (OT) visitato il giorno 2 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 10 
+Paziente 657 (OT) visitato il giorno 5 inizio visita: 4 fine visita: 5 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 5 fine infusione: 11 
+Paziente 658 (OT) visitato il giorno 2 inizio visita: 22 fine visita: 23 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 23 fine infusione: 29 
+Paziente 659 (OT) visitato il giorno 4 inizio visita: 32 fine visita: 33 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 33 fine infusione: 39 
+Paziente 660 (OT) visitato il giorno 4 inizio visita: 16 fine visita: 17 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 17 fine infusione: 23 
+Paziente 661 (OT) visitato il giorno 2 inizio visita: 29 fine visita: 30 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 30 fine infusione: 36 
+Paziente 662 (OT) visitato il giorno 2 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 8 
+Paziente 663 (OT) visitato il giorno 4 inizio visita: 27 fine visita: 28 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 28 fine infusione: 52 
+Paziente 664 (OT) visitato il giorno 2 inizio visita: 26 fine visita: 27 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 27 fine infusione: 51 
+Paziente 665 (OT) visitato il giorno 2 inizio visita: 30 fine visita: 31 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 31 fine infusione: 55 
+Paziente 666 (OT) visitato il giorno 2 inizio visita: 28 fine visita: 29 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 29 fine infusione: 53 
+Paziente 667 (OT) visitato il giorno 5 inizio visita: 20 fine visita: 21 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 21 fine infusione: 45 
+Paziente 668 (OT) visitato il giorno 5 inizio visita: 1 fine visita: 2 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 2 fine infusione: 14 
+Paziente 669 (OT) visitato il giorno 4 inizio visita: 8 fine visita: 9 attesa: 0 slot preferenza: letto assegnato: letto inizio infusione: 9 fine infusione: 21 
+Paziente 670 (OT) visitato il giorno 5 inizio visita: 3 fine visita: 4 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 4 fine infusione: 16 
+Paziente 671 (OT) visitato il giorno 5 inizio visita: 36 fine visita: 37 attesa: 0 slot preferenza: poltorna assegnato: letto inizio infusione: 37 fine infusione: 49 
+Paziente 672 (OT) visitato il giorno 5 inizio visita: 25 fine visita: 26 attesa: 0 slot preferenza: poltorna assegnato: poltorna inizio infusione: 26 fine infusione: 38 
+
+UTILIZZO DEGLI AMBULATORI
+
+Ambulatorio 1
+giorno 1 (patologia GU): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 2 (patologia MA): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 3 (patologia MA): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 4 (patologia OT): 83.33% - 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 
+giorno 5 (patologia GI): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+Ambulatorio 2
+giorno 1 (patologia PO): 83.33% - 1 1 1 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 
+giorno 2 (patologia OT): 72.22% - 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 0 1 1 0 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 0 
+giorno 3 (patologia MA): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 4 (patologia GI): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 5 (patologia OT): 83.33% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 0 1 0 1 
+Ambulatorio 3
+giorno 1 (patologia MA): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 2 (patologia GY): 72.22% - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 
+giorno 3 (patologia PO): 80.56% - 1 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 
+giorno 4 (patologia MA): 100.00% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+giorno 5 (patologia PO): 75.00% - 1 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 0 1 1 1 1 1 1 
+Ambulatorio 4
+giorno 1 (patologia EM): 61.11% - 1 1 1 1 0 0 0 1 1 0 0 0 1 1 1 1 0 1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 1 0 0 0 
+giorno 2 (patologia EM): 61.11% - 1 1 0 1 1 0 0 1 1 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0 1 1 0 
+giorno 3 (patologia EM): 72.22% - 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 0 1 1 0 1 1 0 0 
+giorno 4 (patologia EM): 72.22% - 1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 1 
+giorno 5 (patologia EM): 55.56% - 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 1 1 1 1 0 0 0 1 1 0 0 
+Ambulatorio 5
+giorno 1 (patologia EM): 55.56% - 1 1 0 1 1 0 0 1 1 1 1 1 1 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1 0 1 1 
+giorno 2 (patologia EM): 77.78% - 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 
+giorno 3 (patologia EM): 72.22% - 1 1 1 1 0 0 0 1 1 1 1 0 1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 0 0 1 1 1 1 1 1 
+giorno 4 (patologia EM): 77.78% - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 1 0 1 1 1 1 0 1 1 0 
+giorno 5 (patologia EM): 61.11% - 1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1 0 0 0 0 1 1 0 0 0 1 1 
+Ambulatorio 6
+giorno 1 (patologia EM): 50.00% - 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 
+giorno 2 (patologia EM): 61.11% - 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 
+giorno 3 (patologia EM): 66.67% - 0 1 1 1 1 0 0 1 1 0 0 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 1 1 0 
+giorno 4 (patologia EM): 61.11% - 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 1 1 1 1 0 
+giorno 5 (patologia EM): 72.22% - 1 1 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 0 1 1 0 1 1 0 
+
+LETTI PER INFUSIONE (MAX 27)
+giorno 1: (max 27)  0  0  0  0  3  5  5  8 10 13 14 16 17 20 20 21 19 21 23 22 22 23 22 22 23 23 24 24 25 25 24 26 26 27 27 25 23 21 19 17 16 14 13  9  8  5  4  3  3  2  2  1  1  0 
+giorno 2: (max 25)  0  0  2  3  5  5  5  7 10 11 11 13 14 16 16 17 17 18 19 20 19 22 23 23 23 23 25 25 23 22 24 23 23 21 22 22 21 18 17 16 15 14 13 12  9  7  6  5  5  5  3  2  2  2 
+giorno 3: (max 27)  0  1  3  3  6  7  9 11 11 14 15 16 17 20 21 23 22 23 24 26 26 25 25 24 25 24 24 25 25 27 26 26 26 25 26 26 26 22 20 17 17 15 14 12 12 11  8  6  4  3  2  2  1  1 
+giorno 4: (max 26)  0  1  3  4  8  9 11 12 15 15 16 17 19 20 21 23 22 24 26 25 23 25 24 23 21 23 22 25 24 23 25 25 24 22 22 24 26 24 23 20 19 18 12 10 10  9  8  5  3  3  2  0  0  0 
+giorno 5: (max 27)  0  0  0  1  1  4  5  7  8 10 11 12 15 17 17 20 22 22 24 23 26 27 27 27 26 25 25 23 25 27 25 26 27 25 24 24 24 24 21 18 18 16 15 13 12 12  9  5  3  2  1  1  0  0 
+
+POLTRONE PER INFUSIONE (MAX 26)
+giorno 1: (max 26)  0  3  9 12 14 16 18 18 19 21 22 24 26 26 25 24 26 25 25 26 26 25 25 25 26 26 24 25 24 24 24 23 22 22 22 23 26 24 23 21 20 18 16 15 13 11  9  7  2  2  2  2  1  1 
+giorno 2: (max 26)  0  3  7  9 11 15 19 19 21 22 24 26 26 26 25 26 26 24 26 24 24 24 25 26 26 26 24 23 25 26 23 25 26 26 25 25 26 26 24 22 21 19 18 16 15 15 13 10  7  6  5  4  1  0 
+giorno 3: (max 26)  0  2  5  9 11 14 16 17 19 21 22 25 26 26 25 25 26 26 26 26 25 25 26 25 25 25 26 24 25 24 25 24 26 26 26 26 26 25 24 23 19 18 16 15 10  8  6  4  2  2  2  1  1  0 
+giorno 4: (max 26)  0  2  5  7  9 11 15 17 19 21 23 24 26 26 26 26 26 26 23 24 23 23 24 25 26 25 24 23 24 24 23 22 25 26 26 26 26 25 23 22 19 17 16 16 12 10  8  7  6  4  4  3  2  1 
+giorno 5: (max 26)  0  3  8 11 15 17 20 21 24 25 25 25 25 26 26 25 24 26 25 26 23 23 24 23 23 25 25 26 26 25 26 25 25 24 24 25 26 22 22 22 21 20 19 17 13 12 11 11 10  9  8  6  4  2 
