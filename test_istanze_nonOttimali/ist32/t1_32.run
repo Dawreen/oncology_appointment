@@ -1,0 +1,251 @@
+reset;
+reset;
+
+# carico i modelli 1, 2, 3
+model mod1.mod;
+model mod2.mod; 
+model mod3.mod;      
+#model vi.mod;
+
+# carico i dati
+data corr_istanza32_mod1.dat;
+
+# definisco il problema 1
+problem p1: x, y, zL, zP, NumeroVisite, C1, C2, C3, C4, C5, C6, C7, C8, C9, CPL;
+# definisco il problema 2
+problem p2: x, y, zL, zP, C, TempoPermanenza, C1, C2, C3, C4, C5, C6, C7, C8, C9, CPL, C10, C11, C12, C13, C14, C15, C16;
+# definisco il problema 3
+problem p3: x, y, zL, zP, C, PrefPoltrona, C1, C2, C3, C4, C5, C6, C7, C8, C9, CPL, C10, C11, C12, C13, C14, C15, C16, Ctempoperm;
+
+# carico e risolvo il problema 1
+problem p1;
+option solver cplex;
+option cplex_options 'bestbound mipdisplay=2 timelimit=300 timing 1' ;
+solve p1 ;
+
+param timep1;
+let timep1 := _solve_elapsed_time ;
+printf"\n\n\n Tempo permanenza totale pazienti = %d \n\n\n", sum{p in P, t in T} ( (sum{h in H} (h+f[p])*y[p, t, h]) - (sum{h in 1..d, a in A} h*x[p, t, h, a]) ) ;
+
+# trovo i pazienti visitati e non visitati
+for{p in P}{
+	if(sum{t in T, h in 1..d, a in A} x[p,t,h,a] == 0) then{
+		let Pnonvisitati := Pnonvisitati union {p};		
+	}
+	else{
+		let Pvisitati := Pvisitati union {p};
+	}
+}
+
+# trovo il giorno di visita dei pazienti visitati
+for{p in Pvisitati}{
+	for{t in T}{
+		if(sum{h in 1..d, a in A} x[p,t,h,a] == 1) then{
+			let GV[p] := t;
+		}
+	}
+}
+
+# carico e risolvo il problema 2
+problem p2;
+#option presolve 0;
+option solver cplex;
+option cplex_options 'bestbound mipdisplay=2 timelimit=300 timing 1' ;
+solve p2 ;
+param timep2;
+let timep2 := _solve_elapsed_time ;
+display PrefPoltrona;
+let TP := TempoPermanenza;
+
+# carico e risolvo il problema 3
+problem p3;
+#option presolve 0;
+option solver cplex;
+option cplex_options 'bestbound mipdisplay=2 timelimit=300 timing 1' ;
+solve p3 ;
+param timep3;
+let timep3 := _solve_elapsed_time ;
+
+#####################################################
+
+# scrivo risultati dettagliati
+
+printf"\n\nRisultati\n">> r.txt;
+
+# riassunto
+printf"\nPazienti totali: %d \n",ptot >r.txt;
+printf"Pazienti visitati: %d \n",NumeroVisite >r.txt;
+printf"Pazienti non visitati %d: ",ptot-NumeroVisite >r.txt;
+for{p in P}{
+	if (sum{t in T, a in A, h in 1..d} x[p,t,h,a]==0) then{
+		printf"%d ",p >r.txt;
+		for {k in K}{
+			if (alpha[p,k]==1) then{
+				printf"(%s) ",k >r.txt;
+			}
+		}
+	}
+}
+printf"\nAttesa media %1.2f",(sum{p in Pvisitati} (C[p]-v[p]-f[p]))/NumeroVisite >r.txt;
+printf"\nAttesa max %d",(max{p in Pvisitati} (C[p]-v[p]-f[p])) >r.txt;
+printf"\nPazienti che preferiscono poltrone: %d",(sum{p in P} pi[p]) >r.txt;
+printf"\nPazienti assegnati a poltrone: %d",PrefPoltrona >r.txt;
+printf"\nUltimo istante inizio infusione: %d \n",(max{p in P} (sum{t in T, h in H} h*y[p,t,h])) >r.txt;
+
+# dettagli
+for{p in P}{
+	printf"\nPaziente %d ", p >r.txt;
+	for {k in K}{
+			if (alpha[p,k]==1) then{
+				printf"(%s) ",k >r.txt;
+			}
+	}
+	if (sum{t in T, a in A, h in 1..d} x[p,t,h,a]==0) then{
+		printf"non visitato" >r.txt;
+	}
+	else{
+		printf"visitato il giorno %d ",(sum{a in A, h in 1..d, t in T} t*x[p,t,h,a]) >r.txt;
+		printf"inizio visita: %d ",(sum{t in T, h in 1..d, a in A} h*x[p,t,h,a]) >r.txt;
+		printf"fine visita: %d ",(sum{t in T, h in 1..d, a in A} (h+v[p])*x[p,t,h,a]) >r.txt;
+		printf"attesa: %d slot ",C[p]-v[p]-f[p] >r.txt;
+		printf"preferenza: " >r.txt;
+		if (lambda[p]==1) then{
+			printf"letto " >r.txt;
+		}
+		else{printf"poltorna " >r.txt;
+		}
+		printf"assegnato: " >r.txt;
+		if (lambda[p]==1) then{
+			printf"letto " >r.txt;
+		}
+		else{
+			if (sum{t in T, h in H} zP[p,t,h] == 1) then{
+				printf"poltorna " >r.txt;
+			}
+			else{printf"letto " >r.txt;
+			}
+		}
+		printf"inizio infusione: %d ",(sum{t in T, h in H} h*y[p,t,h]) >r.txt;
+		printf"fine infusione: %d ",(sum{t in T, h in H} (h+f[p])*y[p,t,h]) >r.txt;
+	}
+}
+
+# ambulatori
+printf"\n\nUTILIZZO DEGLI AMBULATORI\n" >r.txt;
+for{a in A}{
+	printf"\nAmbulatorio %d",a >r.txt;
+	for{t in T}{
+		printf"\ngiorno %d (patologia ",t >r.txt;
+		for{k in K}{
+			if(w[a,k,t]==1) then{
+				printf"%s): ",k >r.txt;
+			}
+		}
+		printf"%3.2f\% - ",100*(sum{p in P, h in 1..d}v[p]*x[p,t,h,a])/d  >r.txt;	
+		for{h in 1..d}{
+			printf"%1.0d ",sum{p in P, q in 1..h: q >= h+1-v[p]} x[p,t,q,a] >r.txt;
+		}
+	}
+}
+
+# letti per infusione
+printf"\n\nLETTI PER INFUSIONE (MAX %d)",MaxLambda >r.txt;
+for{t in T}{
+	printf"\ngiorno %1.0d: ",t >r.txt;
+	printf"(max %d) ",(max{h in H} (sum{p in P, q in 1..h: lambda[p]=1 and q >= h+1-f[p]} y[p,t,q] + sum{p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zL[p,t,q])) >r.txt;
+	for{h in H}{
+		printf"%2.0d ",(sum{p in P, q in 1..h: lambda[p]=1 and q >= h+1-f[p]} y[p,t,q] + sum{p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zL[p,t,q]) >r.txt;
+	}
+}
+
+# poltrone per infusione
+printf"\n\nPOLTRONE PER INFUSIONE (MAX %d)",MaxPi >r.txt;
+for{t in T}{
+	printf"\ngiorno %1.0d: ",t >r.txt;
+	printf"(max %d) ",(max{h in H} (sum{p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zP[p,t,q])) >r.txt;
+	for{h in H}{
+		printf"%2.0d ",(sum{p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zP[p,t,q]) >r.txt;
+	}
+}
+
+######################################################
+
+# scrivo risultati sintetici
+
+# istanza
+printf"Istanza 2 " >>sintesi.txt;
+
+# numero pazienti totali
+printf" %3.0f ",ptot >sintesi.txt;
+
+# numero pazienti visitati (lower bound per problema 1)
+printf" %3.0f ",card(Pvisitati) >sintesi.txt;
+
+# best (upper) bound per problema 1
+printf" %3.0f ",NumeroVisite.bestbound >sintesi.txt;
+
+# gap per problema 1
+printf" %4.2f\% ",100*(NumeroVisite.bestbound - NumeroVisite)/NumeroVisite >sintesi.txt;
+
+# CPU time per problema 1
+printf" %4.2f ",timep1 >sintesi.txt;
+
+# soluzione trovata (upper bound) per problema 2
+printf" %3.0f ",TempoPermanenza >sintesi.txt;
+
+# best (lower) bound per problema 2
+printf" %3.0f ",TempoPermanenza.bestbound >sintesi.txt;
+
+# gap per problema 2 
+printf" %4.2f\% ",100*(TempoPermanenza - TempoPermanenza.bestbound)/TempoPermanenza.bestbound >sintesi.txt;
+
+# CPU time per problema 2
+printf" %4.2f ",timep2 >sintesi.txt;
+
+# soluzione trovata (lower bound) per problema 3
+printf" %3.0f ",PrefPoltrona >sintesi.txt;
+
+# numero pazienti che possono usare le poltrone
+printf" %3.0f ",(sum{p in P} pi[p]) >sintesi.txt;
+
+# best (upper) bound per problema 3
+printf" %3.0f ",PrefPoltrona.bestbound >sintesi.txt;
+
+# gap per problema 3 
+printf" %4.2f\% ",100*(PrefPoltrona.bestbound - PrefPoltrona)/PrefPoltrona >sintesi.txt;
+
+# CPU time per problema 3
+printf" %4.2f ",timep3 >sintesi.txt;
+
+# tempo medio in ospedale dei pazienti non ematologici
+printf" %2.2f ",(sum{p in Pvisitati: alpha[p,'EM']=0} C[p])/card({p in Pvisitati: alpha[p,'EM']=0}) >sintesi.txt;
+
+# tempo medio in ospedale dei pazienti ematologici
+printf" %2.2f ",(sum{p in Pvisitati: alpha[p,'EM']=1} C[p])/card({p in Pvisitati: alpha[p,'EM']=1}) >sintesi.txt;
+
+# tempo medio di attesa dei pazienti non ematologici
+printf" %2.2f ",(sum{p in Pvisitati: alpha[p,'EM']=0} (C[p]-f[p]-v[p]))/card({p in Pvisitati: alpha[p,'EM']=0}) >sintesi.txt;
+
+# tempo medio di attesa dei pazienti ematologici
+printf" %2.2f ",(sum{p in Pvisitati: alpha[p,'EM']=1} (C[p]-f[p]-v[p]))/card({p in Pvisitati: alpha[p,'EM']=1}) >sintesi.txt;
+
+# tempo max di attesa dei pazienti non ematologici
+printf" %2.0f ",max({p in Pvisitati: alpha[p,'EM']=0} (C[p]-f[p]-v[p])) >sintesi.txt;
+
+# tempo max di attesa dei pazienti ematologici
+printf" %2.0f ",max({p in Pvisitati: alpha[p,'EM']=1} (C[p]-f[p]-v[p])) >sintesi.txt;
+
+# tasso utilizzo ambulatori non ematologici
+printf" %3.2f\% ",100*(sum{a in 1..3, t in T, p in P, h in 1..d} v[p]*x[p,t,h,a])/(d*3*card(T)) >sintesi.txt;
+
+# tasso utilizzo ambulatori ematologici
+printf" %3.2f\% ",100*(sum{a in 4..6, t in T, p in P, h in 1..d} v[p]*x[p,t,h,a])/(d*3*card(T)) >sintesi.txt;
+
+# tasso utilizzo poltrone
+printf" %3.2f\% ",100*(sum{t in T, h in H, p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zP[p,t,q])/(M*card(T)*MaxPi) >sintesi.txt;
+
+# tasso utilizzo letti
+printf" %3.2f\% ",100*(sum{t in T, h in H, p in P, q in 1..h: lambda[p]=1 and q >= h+1-f[p]} y[p,t,q] + sum{t in T, h in H, p in P, q in 1..h: pi[p]=1 and q >= h+1-f[p]} zL[p,t,q])/(M*card(T)*MaxLambda) >sintesi.txt;
+
+# ultimo istante inizio infusione:
+printf" %d \n",(max{p in P} (sum{t in T, h in H} h*y[p,t,h])) >sintesi.txt;
